@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aajj333
-- 👀 I’m interested in C++, R, Python and AWS/GCP and more.
+- 👀 I’m interested in C++, Python and AWS and more.
 - 🌱 I’m currently learning C++
 
 <!---
