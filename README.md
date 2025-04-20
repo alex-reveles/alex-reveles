@@ -1,6 +1,5 @@
-# Hello everyone, I'm Alex!
-
-Welcome to my GitHub! I’m a developer who’s passionate about learning, building and growing.
+# Welcome to my GitHub!
+Hi everyone, I'm Alex! I’m an aspiring software engineer who’s passionate about learning, building and growing.
 
 ## What You'll Find Here
 
