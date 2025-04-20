@@ -9,7 +9,7 @@ I’m an recent computer science graduate and aspiring software engineer who’s
 
 ## Where I Learn
 
-I also maintain a GitHub organization called [@dev-lab](https://github.com/dev-lab) where I:
+I also maintain a GitHub organization called [@arev-dev-lab](https://github.com/arev-dev-lab) where I:
 - Tinker with new languages and frameworks
 - Complete coding challenges
 - Upload course projects and experiments
