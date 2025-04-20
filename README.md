@@ -1,5 +1,6 @@
 # Welcome to my GitHub!
-Hi everyone, I'm Alex! I’m an aspiring software engineer who’s passionate about learning, building and growing.
+Hi everyone, I'm Alex! 
+I’m an recent computer science graduate and aspiring software engineer who’s passionate about learning, building and growing.
 
 ## What You'll Find Here
 
