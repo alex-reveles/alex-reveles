@@ -1,4 +1,4 @@
-- Hi, I’m Alex. I currently hold a B.S. degree in Computer Science and I'm interested in develivering business solutions with Python, AWS, automation, AI, web development and more.
+- Hi, I’m Alex. I currently hold a B.S. degree in Computer Science and I'm interested in delivering business solutions with Python, AWS, automation, AI, web development and more.
 - Click on the link below to view my completed portfolio
 - Also, discover new projects and services I'm currently working on in my sandbox account
 - Thanks for stopping by!
