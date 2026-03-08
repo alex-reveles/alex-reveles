@@ -1,20 +1,21 @@
-# Welcome to my GitHub!
-Hi everyone, I'm Alex! 
-I’m an recent computer science graduate and aspiring software engineer who’s passionate about learning, building and growing.
+# Alex Reveles Portfolio
 
-## What You'll Find Here
+A responsive personal portfolio website built with plain HTML, CSS, and JavaScript.
 
-- **Portfolio Projects**: Clean, finished work that I’m proud of.
-- **Web & Cloud Apps**: Projects using Python, Java, C++, AWS, Docker, etc.
+## Features
 
-## Where I Learn
+- Hero section with intro and calls to action
+- Featured project area with reusable card rendering from JavaScript data
+- About and core skills sections
+- Contact section
+- Structure ready to scale from 1 to 3-5 showcased projects
 
-I also maintain a GitHub organization called [@arev-dev-journey](https://github.com/arev-dev-journey) where I:
-- Tinker with new languages and frameworks
-- Complete coding challenges
-- Upload course projects and experiments
+## Run locally
 
-## Let's Connect
+Open `index.html` directly in a browser, or serve the directory:
 
-- [LinkedIn](https://linkedin.com/in/alex-reveles)
-- [Portfolio Website](https://yourwebsite.com)
+```bash
+python3 -m http.server 8000
+```
+
+Then visit <http://localhost:8000>.
